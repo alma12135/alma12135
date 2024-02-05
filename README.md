@@ -1,4 +1,6 @@
-### Hi there 👋
+## perfil de usuario
+
+Actualmente soy **estudiante** de **computacion y robotica** en el **IES Jose de Mora**
 
 <!--
 **alma12135/alma12135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

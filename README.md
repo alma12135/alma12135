@@ -1,3 +1,25 @@
+# bienvenidos 
+## Perfil de Alma
+
+Este texto utiliza el lenguaje **Markdown**.
+Para hacer *parrafos* nuevos tengo que usar el "enter" dos veces .
+
+Con una sola , no hace párrafos.
+
+### Listas y enumeraciones .
+
+- Se hacen con el guión ( + espacio ) 
+ - Para poner un asterisco , aqui en medio no pasa nada : *. se pone solo .
+ - Pero si pongo otro , *
+ 
+ 
+1. 
+-
+
+
+
+
+
 ## perfil de usuario
 
 Actualmente soy **estudiante** de **computacion y robotica** en el **IES Jose de Mora**
